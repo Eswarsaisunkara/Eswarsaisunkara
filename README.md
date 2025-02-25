@@ -30,10 +30,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eswar594&show_icons=true&locale=en&layout=compact" alt="eswar594" /></p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Eswar594&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Eswar594&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Eswar594&limit=5&theme=default&combine_all_yearly_contributions=true)
