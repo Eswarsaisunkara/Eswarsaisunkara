@@ -39,12 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Eswarsaisunkara&show_icons=true&locale=en" alt="Eswarsaisunkara" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eswarsaisunkara&" alt="Eswarsaisunkara" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eswarsaisunkara&show_icons=true&locale=en&layout=compact" alt="Eswarsaisunkara" /></p>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
