@@ -45,14 +45,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eswarsaisunkara&" alt="Eswarsaisunkara" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eswarsaisunkara&show_icons=true&locale=en&layout=compact" alt="Eswarsaisunkara" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Eswarsaisunkara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Eswarsaisunkara&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Eswarsaisunkara&icon=9&color=3)](https://visitcount.itsvg.in)
