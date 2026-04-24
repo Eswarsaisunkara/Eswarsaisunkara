@@ -7,8 +7,8 @@
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working on: Developing a **chess application** using Angular and Node.js.
-- 👯 I’m looking to collaborate on: **Web development projects** (Angular, React), **backend systems** (Node.js, Spring), and **machine learning models**.
+- 🔭 I’m currently working on: Developing a **RAG application**.
+- 👯 I’m looking to collaborate on: **Web development projects** (React), **backend systems** (Node.js, Spring), and **machine learning models**.
 - 🤝 I’m looking for help with: Optimizing **APIs**, enhancing **UI/UX design**, and integrating **databases** with front-end applications.
 - 🌱 I’m currently learning: **Node.js**, **Advanced Data Structures**, and **Big Data tools** like Hadoop and Spark.
 - 💬 Ask me about: **Full-stack development**, **machine learning**, and **building scalable applications**.
